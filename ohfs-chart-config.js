@@ -65,7 +65,9 @@
       '.cmpt-market-chart__header { margin-bottom: 24px; }',
       '.cmpt-market-chart__eyebrow { font-size: 13px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: ' + THEME.colorPrimary + '; margin: 0 0 6px; }',
       '.cmpt-market-chart__title { font-size: 26px; font-weight: 600; color: ' + THEME.colorText + '; margin: 0 0 8px; }',
-      '.cmpt-market-chart__subtitle { font-size: 15px; color: ' + THEME.colorMuted + '; margin: 0; }',
+      '.cmpt-market-chart__observations { margin: 0; }',
+      '.cmpt-market-chart__observations p { font-size: 15px; color: ' + THEME.colorText + '; line-height: 1.65; margin: 0 0 12px; }',
+      '.cmpt-market-chart__observations p:last-child { margin-bottom: 0; }',
       '.cmpt-market-chart__legend { display: flex; gap: 20px; margin-bottom: 16px; flex-wrap: wrap; }',
       '.cmpt-market-chart__legend-item { display: flex; align-items: center; gap: 7px; font-size: 13px; color: ' + THEME.colorMuted + '; }',
       '.cmpt-market-chart__legend-bar { width: 12px; height: 12px; border-radius: 3px; background: ' + THEME.colorPrimary + '; flex-shrink: 0; }',
@@ -207,7 +209,9 @@
     Required config properties:
       id         {string}   Unique ID for this chart's canvas element (e.g. 'ohfs-chart-sanctuary-ridge')
       title      {string}   Neighborhood name for the <h2>
-      subtitle   {string}   Year range description (e.g. 'Annual data, 2022 to 2025.')
+      subtitle   {string|array}  Observations text. Either a single string or an array of
+                                 paragraph strings. Each array item becomes its own <p> tag.
+                                 e.g. ['In 2024, there were 15 homes sold...', 'In 2025...']
       years      {array}    Year labels  e.g. ['2022', '2023', '2024', '2025']
       sold       {array}    Homes sold   e.g. [47, 38, 42, 51]
       avgPrice   {array}    Avg prices   e.g. [342000, 361000, 378000, 395000]
@@ -232,9 +236,14 @@
 
     /* Populate header */
     var titleEl = section.querySelector('.cmpt-market-chart__title');
-    var subtitleEl = section.querySelector('.cmpt-market-chart__subtitle');
+    var observationsEl = section.querySelector('.cmpt-market-chart__observations');
     if (titleEl) titleEl.textContent = config.title;
-    if (subtitleEl) subtitleEl.textContent = config.subtitle;
+    if (observationsEl && config.subtitle) {
+      var paragraphs = Array.isArray(config.subtitle) ? config.subtitle : [config.subtitle];
+      observationsEl.innerHTML = paragraphs.map(function (p) {
+        return '<p>' + p + '</p>';
+      }).join('');
+    }
 
     /* Build stat cards */
     var statsEl = section.querySelector('.cmpt-market-chart__stats');
