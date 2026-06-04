@@ -1,14 +1,14 @@
 /*
 ================================================================================
-  OHF MARKET CHART — GLOBAL CONFIG
-  File: ohf-chart-config.js
-  Repo: github.com/YOUR-USERNAME/ohf-charts   ← update this
-  CDN:  https://cdn.jsdelivr.net/gh/YOUR-USERNAME/ohf-charts@main/ohf-chart-config.js
+  OHFS MARKET CHART — GLOBAL CONFIG
+  File: ohfs-chart-config.js
+  Repo: github.com/YOUR-USERNAME/ohfs-charts   ← update this
+  CDN:  https://cdn.jsdelivr.net/gh/YOUR-USERNAME/ohfs-charts@main/ohfs-chart-config.js
 
   HOW THIS FILE WORKS
   -------------------
   This file is loaded ONCE sitewide (via GTM or the site footer).
-  It provides the OHFChart() function that every neighborhood chart page calls.
+  It provides the OHFSChart() function that every neighborhood chart page calls.
   All colors, fonts, sizing, and Chart.js configuration live here.
 
   TO CHANGE COLORS SITEWIDE
@@ -20,7 +20,7 @@
   DEPLOYMENT NOTE
   ---------------
   For production, pin to a specific release tag so a bad push doesn't break live charts:
-    https://cdn.jsdelivr.net/gh/YOUR-USERNAME/ohf-charts@v1.0/ohf-chart-config.js
+    https://cdn.jsdelivr.net/gh/YOUR-USERNAME/ohfs-charts@v1.0/ohfs-chart-config.js
   Use @main only during development.
 
   INSTRUCTIONS FOR CLAUDE — how to use this system
@@ -29,7 +29,7 @@
   When generating a new chart page, Claude should:
     1. Copy the per-page template (subdivision-market-chart.html)
     2. Update: neighborhood name, subtitle year range, years/sold/avgPrice arrays
-    3. Give each chart instance a unique ID (e.g. 'ohf-chart-hearthwood')
+    3. Give each chart instance a unique ID (e.g. 'ohfs-chart-hearthwood')
     4. Do NOT modify this file or copy styles into the page — they live here
     5. Do NOT include Chart.js in the page — this file loads it
 ================================================================================
@@ -58,7 +58,7 @@
 
   /* Injects the shared CSS into the page once */
   function injectStyles() {
-    if (document.getElementById('ohf-chart-styles')) return; /* Already injected */
+    if (document.getElementById('ohfs-chart-styles')) return; /* Already injected */
     var css = [
       '.cmpt-market-chart { background: #fff; }',
       '.cmpt-market-chart__inner { max-width: ' + THEME.maxWidth + '; margin: 0 auto; padding: 0 24px; }',
@@ -84,7 +84,7 @@
     ].join('\n');
 
     var tag = document.createElement('style');
-    tag.id = 'ohf-chart-styles';
+    tag.id = 'ohfs-chart-styles';
     tag.textContent = css;
     document.head.appendChild(tag);
   }
@@ -202,10 +202,10 @@
   }
 
   /*
-    OHFChart(config) — the public function each neighborhood page calls
+    OHFSChart(config) — the public function each neighborhood page calls
 
     Required config properties:
-      id         {string}   Unique ID for this chart's canvas element (e.g. 'ohf-chart-sanctuary-ridge')
+      id         {string}   Unique ID for this chart's canvas element (e.g. 'ohfs-chart-sanctuary-ridge')
       title      {string}   Neighborhood name for the <h2>
       subtitle   {string}   Year range description (e.g. 'Annual data, 2022 to 2025.')
       years      {array}    Year labels  e.g. ['2022', '2023', '2024', '2025']
@@ -217,13 +217,13 @@
       priceMax   {number}   Left axis suggestedMax (default: 440000)
       soldMax    {number}   Right axis suggestedMax (default: 70)
   */
-  global.OHFChart = function (config) {
+  global.OHFSChart = function (config) {
     injectStyles();
 
     /* Find the section this config belongs to by looking for a canvas with the given id */
     var canvas = document.getElementById(config.id);
     if (!canvas) {
-      console.warn('OHFChart: no canvas found with id "' + config.id + '"');
+      console.warn('OHFSChart: no canvas found with id "' + config.id + '"');
       return;
     }
 
