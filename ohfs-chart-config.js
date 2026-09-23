@@ -4,7 +4,7 @@
   File:  ohfs-chart-config.js
   Repo:  github.com/ryanrenner/ohfs-charts
   Theme: REW sagittarius (26.x)
-  Version: 4.0
+  Version: 4.1
 
   WHAT THIS FILE DOES
   -------------------
@@ -52,8 +52,10 @@
       the kicker, headline, and lede paragraph (hand-written HTML, for SEO),
       the body div id, and the data passed to OHFSChart().
   - Do not copy CSS or Chart.js into page blocks. It all lives here.
-  - The headline and lede must match the data. Check year-over-year direction
-    before writing them. Do not write "higher prices" if the average fell.
+  - Kicker is always "Market Trends". Headline pattern is
+    "[Neighborhood] Neighborhood Home Sales".
+  - The lede must match the data. Check year-over-year direction before
+    writing it. Do not write "higher prices" if the average fell.
   - KPI numbers, percent changes, and chart labels are computed here from
     the data, so they cannot disagree with the charts. Never hand-type them.
   - Thin data: if average annual sales fall below THEME.minAnnualSales, the
@@ -121,6 +123,8 @@
       '.cmpt-market-dash { margin: 48px 0; font-family: ' + T.fontFamily + '; color: ' + T.colorText + '; }',
       '.cmpt-market-dash__intro { max-width: 760px; }',
       '.cmpt-market-dash__intro h2 { margin-bottom: 16px; }',
+      /* Kicker override: theme default is Playfair italic. Scoped to this component only. */
+      '.cmpt-market-dash__intro .kicker__headline { display: block; margin-bottom: 8px; font-family: ' + T.fontFamily + '; font-style: normal; font-weight: 700; font-size: 14px; line-height: 1.4; letter-spacing: 1.5px; text-transform: uppercase; color: ' + T.colorPrimary + '; }',
 
       /* KPI row: 2 across on phones, 4 across at 768px */
       '.cmpt-market-dash__kpis { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 32px 0 16px; }',
