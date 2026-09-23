@@ -1,0 +1,42 @@
+{
+  "slug": "lakeview",
+  "name": "Lakeview",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    46,
+    35,
+    20,
+    14
+  ],
+  "avgPrice": [
+    479528,
+    522890,
+    534386,
+    509267
+  ],
+  "lowPrice": [
+    65000,
+    137000,
+    414900,
+    370000
+  ],
+  "highPrice": [
+    625000,
+    702347,
+    690000,
+    714990
+  ],
+  "medianPrice": [
+    499900,
+    522223,
+    532500,
+    477500
+  ]
+}

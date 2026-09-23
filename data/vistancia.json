@@ -1,0 +1,42 @@
+{
+  "slug": "vistancia",
+  "name": "Vistancia",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    61,
+    43,
+    13,
+    14
+  ],
+  "avgPrice": [
+    586218,
+    618947,
+    631430,
+    649624
+  ],
+  "lowPrice": [
+    389900,
+    465000,
+    60000,
+    415000
+  ],
+  "highPrice": [
+    973423,
+    929698,
+    1110915,
+    1436160
+  ],
+  "medianPrice": [
+    608083,
+    582410,
+    625000,
+    585250
+  ]
+}

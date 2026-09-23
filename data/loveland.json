@@ -1,0 +1,42 @@
+{
+  "slug": "loveland",
+  "name": "Loveland",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    9,
+    8,
+    8,
+    5
+  ],
+  "avgPrice": [
+    726389,
+    914369,
+    735250,
+    786000
+  ],
+  "lowPrice": [
+    287000,
+    540000,
+    410000,
+    615000
+  ],
+  "highPrice": [
+    1150000,
+    1360000,
+    1500000,
+    985000
+  ],
+  "medianPrice": [
+    799000,
+    889500,
+    595000,
+    750000
+  ]
+}

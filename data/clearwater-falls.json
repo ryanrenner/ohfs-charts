@@ -1,0 +1,42 @@
+{
+  "slug": "clearwater-falls",
+  "name": "Clearwater Falls",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    44,
+    21,
+    36,
+    22
+  ],
+  "avgPrice": [
+    342093,
+    331962,
+    367675,
+    370862
+  ],
+  "lowPrice": [
+    264000,
+    270000,
+    292500,
+    290000
+  ],
+  "highPrice": [
+    450000,
+    440000,
+    469000,
+    460000
+  ],
+  "medianPrice": [
+    320000,
+    324000,
+    342500,
+    355000
+  ]
+}

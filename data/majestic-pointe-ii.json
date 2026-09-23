@@ -1,0 +1,42 @@
+{
+  "slug": "majestic-pointe-ii",
+  "name": "Majestic Pointe II",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    0,
+    0,
+    26,
+    43
+  ],
+  "avgPrice": [
+    null,
+    null,
+    361433,
+    354360
+  ],
+  "lowPrice": [
+    null,
+    null,
+    319990,
+    300900
+  ],
+  "highPrice": [
+    null,
+    null,
+    418790,
+    427789
+  ],
+  "medianPrice": [
+    null,
+    null,
+    349990,
+    349990
+  ]
+}

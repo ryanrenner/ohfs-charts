@@ -1,0 +1,42 @@
+{
+  "slug": "lakeview-heights",
+  "name": "Lakeview Heights",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    11,
+    16,
+    12,
+    2
+  ],
+  "avgPrice": [
+    262095,
+    301888,
+    283117,
+    299500
+  ],
+  "lowPrice": [
+    200000,
+    260000,
+    191000,
+    299000
+  ],
+  "highPrice": [
+    345000,
+    350000,
+    320000,
+    300000
+  ],
+  "medianPrice": [
+    261000,
+    304000,
+    292750,
+    299500
+  ]
+}

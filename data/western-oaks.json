@@ -1,0 +1,42 @@
+{
+  "slug": "western-oaks",
+  "name": "Western Oaks",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    9,
+    6,
+    4,
+    4
+  ],
+  "avgPrice": [
+    393889,
+    407000,
+    417500,
+    371944
+  ],
+  "lowPrice": [
+    365000,
+    375000,
+    410000,
+    336875
+  ],
+  "highPrice": [
+    425000,
+    495001,
+    425000,
+    400000
+  ],
+  "medianPrice": [
+    394000,
+    391750,
+    417500,
+    375450
+  ]
+}

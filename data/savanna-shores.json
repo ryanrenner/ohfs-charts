@@ -1,0 +1,42 @@
+{
+  "slug": "savanna-shores",
+  "name": "Savanna Shores",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    10,
+    7,
+    4,
+    1
+  ],
+  "avgPrice": [
+    443910,
+    512929,
+    511000,
+    877000
+  ],
+  "lowPrice": [
+    375000,
+    425000,
+    485000,
+    877000
+  ],
+  "highPrice": [
+    515000,
+    575000,
+    545000,
+    877000
+  ],
+  "medianPrice": [
+    440000,
+    510000,
+    507000,
+    877000
+  ]
+}

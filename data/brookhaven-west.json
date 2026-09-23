@@ -1,0 +1,42 @@
+{
+  "slug": "brookhaven-west",
+  "name": "BrookHaven West",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    10,
+    6,
+    8,
+    9
+  ],
+  "avgPrice": [
+    267590,
+    275109,
+    291250,
+    296312
+  ],
+  "lowPrice": [
+    215000,
+    212500,
+    245000,
+    264500
+  ],
+  "highPrice": [
+    325000,
+    327000,
+    335000,
+    315310
+  ],
+  "medianPrice": [
+    263000,
+    288076,
+    297500,
+    305000
+  ]
+}

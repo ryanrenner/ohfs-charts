@@ -1,0 +1,42 @@
+{
+  "slug": "southridge",
+  "name": "SouthRidge",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    10,
+    11,
+    11,
+    11
+  ],
+  "avgPrice": [
+    257350,
+    280591,
+    285450,
+    291184
+  ],
+  "lowPrice": [
+    235000,
+    248000,
+    268000,
+    263625
+  ],
+  "highPrice": [
+    300000,
+    336500,
+    310000,
+    343000
+  ],
+  "medianPrice": [
+    251750,
+    265000,
+    282500,
+    284500
+  ]
+}

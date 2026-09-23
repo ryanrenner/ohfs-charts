@@ -1,0 +1,42 @@
+{
+  "slug": "ashbury-farm",
+  "name": "Ashbury Farm",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    6,
+    9,
+    9,
+    7
+  ],
+  "avgPrice": [
+    738778,
+    833129,
+    841788,
+    949656
+  ],
+  "lowPrice": [
+    675000,
+    729110,
+    775000,
+    825000
+  ],
+  "highPrice": [
+    825000,
+    952935,
+    938190,
+    1059000
+  ],
+  "medianPrice": [
+    739434,
+    827389,
+    840000,
+    975000
+  ]
+}

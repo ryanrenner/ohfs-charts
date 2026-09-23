@@ -1,0 +1,42 @@
+{
+  "slug": "maenner-meadows",
+  "name": "Maenner Meadows",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    6,
+    3,
+    11,
+    8
+  ],
+  "avgPrice": [
+    236167,
+    253333,
+    290841,
+    271312
+  ],
+  "lowPrice": [
+    208000,
+    195000,
+    175000,
+    230000
+  ],
+  "highPrice": [
+    260000,
+    300000,
+    436000,
+    340000
+  ],
+  "medianPrice": [
+    237500,
+    265000,
+    271250,
+    265000
+  ]
+}

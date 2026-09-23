@@ -1,0 +1,42 @@
+{
+  "slug": "west-loveland",
+  "name": "West Loveland",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    11,
+    3,
+    5,
+    5
+  ],
+  "avgPrice": [
+    413409,
+    421333,
+    544000,
+    492200
+  ],
+  "lowPrice": [
+    297000,
+    347500,
+    315000,
+    250000
+  ],
+  "highPrice": [
+    615000,
+    536500,
+    875000,
+    685000
+  ],
+  "medianPrice": [
+    407000,
+    380000,
+    415000,
+    525000
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "windsor-west",
+  "name": "Windsor West",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    0,
+    1,
+    21,
+    35
+  ],
+  "avgPrice": [
+    null,
+    399789,
+    386619,
+    388597
+  ],
+  "lowPrice": [
+    null,
+    399789,
+    344990,
+    334990
+  ],
+  "highPrice": [
+    null,
+    399789,
+    423990,
+    424990
+  ],
+  "medianPrice": [
+    null,
+    399789,
+    385990,
+    389990
+  ]
+}

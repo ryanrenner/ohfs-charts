@@ -1,0 +1,42 @@
+{
+  "slug": "copper-ridge",
+  "name": "Copper Ridge",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    8,
+    9,
+    8,
+    6
+  ],
+  "avgPrice": [
+    596550,
+    516944,
+    489250,
+    464666
+  ],
+  "lowPrice": [
+    177500,
+    305000,
+    360000,
+    240000
+  ],
+  "highPrice": [
+    1140000,
+    990000,
+    905000,
+    999999
+  ],
+  "medianPrice": [
+    413750,
+    400000,
+    437500,
+    381500
+  ]
+}

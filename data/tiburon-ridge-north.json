@@ -1,0 +1,42 @@
+{
+  "slug": "tiburon-ridge-north",
+  "name": "Tiburon Ridge North",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    0,
+    20,
+    20,
+    6
+  ],
+  "avgPrice": [
+    null,
+    336300,
+    350448,
+    333833
+  ],
+  "lowPrice": [
+    null,
+    304990,
+    314990,
+    305000
+  ],
+  "highPrice": [
+    null,
+    473590,
+    392090,
+    365000
+  ],
+  "medianPrice": [
+    null,
+    322740,
+    346490,
+    329000
+  ]
+}

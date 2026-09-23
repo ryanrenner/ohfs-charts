@@ -1,0 +1,42 @@
+{
+  "slug": "west-fairacres",
+  "name": "West Fairacres",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    3,
+    7,
+    5,
+    6
+  ],
+  "avgPrice": [
+    431700,
+    472714,
+    678500,
+    573833
+  ],
+  "lowPrice": [
+    360100,
+    339000,
+    405000,
+    465000
+  ],
+  "highPrice": [
+    510000,
+    610000,
+    852500,
+    862000
+  ],
+  "medianPrice": [
+    425000,
+    440000,
+    775000,
+    533500
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "stonecrest",
+  "name": "Stonecrest",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    9,
+    3,
+    7,
+    5
+  ],
+  "avgPrice": [
+    371611,
+    434000,
+    391486,
+    443000
+  ],
+  "lowPrice": [
+    350000,
+    390000,
+    354900,
+    340000
+  ],
+  "highPrice": [
+    400000,
+    500000,
+    477500,
+    492500
+  ],
+  "medianPrice": [
+    370000,
+    412000,
+    375000,
+    475000
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "founders-ridge",
+  "name": "Founders Ridge",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    14,
+    14,
+    19,
+    17
+  ],
+  "avgPrice": [
+    520602,
+    548379,
+    542508,
+    561338
+  ],
+  "lowPrice": [
+    432410,
+    449320,
+    440000,
+    465000
+  ],
+  "highPrice": [
+    645529,
+    685162,
+    628110,
+    641850
+  ],
+  "medianPrice": [
+    498379,
+    547000,
+    530000,
+    568627
+  ]
+}

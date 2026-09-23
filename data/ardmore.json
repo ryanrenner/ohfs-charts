@@ -1,0 +1,42 @@
+{
+  "slug": "ardmore",
+  "name": "Ardmore",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    8,
+    9,
+    10,
+    13
+  ],
+  "avgPrice": [
+    287500,
+    300356,
+    320744,
+    307942
+  ],
+  "lowPrice": [
+    265000,
+    259900,
+    275000,
+    250000
+  ],
+  "highPrice": [
+    320000,
+    335000,
+    350000,
+    367500
+  ],
+  "medianPrice": [
+    286000,
+    306500,
+    320000,
+    308000
+  ]
+}

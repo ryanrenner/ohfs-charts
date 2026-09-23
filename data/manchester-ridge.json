@@ -1,0 +1,42 @@
+{
+  "slug": "manchester-ridge",
+  "name": "Manchester Ridge",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    10,
+    10,
+    8,
+    3
+  ],
+  "avgPrice": [
+    508990,
+    534350,
+    619170,
+    523333
+  ],
+  "lowPrice": [
+    365000,
+    416500,
+    500000,
+    385000
+  ],
+  "highPrice": [
+    649000,
+    605000,
+    757500,
+    595000
+  ],
+  "medianPrice": [
+    507500,
+    536500,
+    644181,
+    590000
+  ]
+}

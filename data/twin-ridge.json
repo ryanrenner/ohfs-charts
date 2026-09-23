@@ -1,0 +1,42 @@
+{
+  "slug": "twin-ridge",
+  "name": "Twin Ridge",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    25,
+    17,
+    27,
+    29
+  ],
+  "avgPrice": [
+    228521,
+    235735,
+    236589,
+    260178
+  ],
+  "lowPrice": [
+    150000,
+    180000,
+    148000,
+    86650
+  ],
+  "highPrice": [
+    280000,
+    321000,
+    299900,
+    495000
+  ],
+  "medianPrice": [
+    230000,
+    230500,
+    242000,
+    265000
+  ]
+}

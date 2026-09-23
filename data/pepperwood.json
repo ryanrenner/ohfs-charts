@@ -1,0 +1,42 @@
+{
+  "slug": "pepperwood",
+  "name": "Pepperwood",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    26,
+    22,
+    29,
+    37
+  ],
+  "avgPrice": [
+    311273,
+    333545,
+    334690,
+    354430
+  ],
+  "lowPrice": [
+    235000,
+    261000,
+    227500,
+    275000
+  ],
+  "highPrice": [
+    375000,
+    375000,
+    388000,
+    400000
+  ],
+  "medianPrice": [
+    318500,
+    344000,
+    340000,
+    357500
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "applewood-heights",
+  "name": "Applewood Heights",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    16,
+    16,
+    20,
+    13
+  ],
+  "avgPrice": [
+    386812,
+    387062,
+    398432,
+    413583
+  ],
+  "lowPrice": [
+    289500,
+    315000,
+    348500,
+    352500
+  ],
+  "highPrice": [
+    490000,
+    425000,
+    520000,
+    475000
+  ],
+  "medianPrice": [
+    382500,
+    391000,
+    395500,
+    418000
+  ]
+}

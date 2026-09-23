@@ -1,0 +1,42 @@
+{
+  "slug": "stone-creek",
+  "name": "Stone Creek",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    25,
+    25,
+    20,
+    24
+  ],
+  "avgPrice": [
+    468560,
+    532962,
+    526833,
+    540600
+  ],
+  "lowPrice": [
+    205000,
+    319800,
+    214000,
+    335000
+  ],
+  "highPrice": [
+    642000,
+    730000,
+    678000,
+    665000
+  ],
+  "medianPrice": [
+    475000,
+    540000,
+    532825,
+    541250
+  ]
+}

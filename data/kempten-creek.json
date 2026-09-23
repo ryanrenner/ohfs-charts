@@ -1,0 +1,42 @@
+{
+  "slug": "kempten-creek",
+  "name": "Kempten Creek",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    0,
+    5,
+    37,
+    39
+  ],
+  "avgPrice": [
+    null,
+    409427,
+    407752,
+    490349
+  ],
+  "lowPrice": [
+    null,
+    290000,
+    259000,
+    259000
+  ],
+  "highPrice": [
+    null,
+    515133,
+    744498,
+    776177
+  ],
+  "medianPrice": [
+    null,
+    389000,
+    379000,
+    512000
+  ]
+}

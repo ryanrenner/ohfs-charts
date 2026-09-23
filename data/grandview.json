@@ -1,0 +1,42 @@
+{
+  "slug": "grandview",
+  "name": "Grandview",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    5,
+    3,
+    7,
+    7
+  ],
+  "avgPrice": [
+    410000,
+    422333,
+    361143,
+    426286
+  ],
+  "lowPrice": [
+    355000,
+    396000,
+    110000,
+    190000
+  ],
+  "highPrice": [
+    435000,
+    442000,
+    495000,
+    600000
+  ],
+  "medianPrice": [
+    425000,
+    429000,
+    410000,
+    499000
+  ]
+}

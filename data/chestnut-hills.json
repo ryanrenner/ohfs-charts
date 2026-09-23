@@ -1,0 +1,42 @@
+{
+  "slug": "chestnut-hills",
+  "name": "Chestnut Hills",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    30,
+    28,
+    16,
+    13
+  ],
+  "avgPrice": [
+    366693,
+    402104,
+    412275,
+    437338
+  ],
+  "lowPrice": [
+    291145,
+    329350,
+    350000,
+    370850
+  ],
+  "highPrice": [
+    446120,
+    484973,
+    473800,
+    477978
+  ],
+  "medianPrice": [
+    364726,
+    421680,
+    401808,
+    445000
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "south-shore-heights",
+  "name": "South Shore HEIGHTS",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    6,
+    9,
+    8,
+    6
+  ],
+  "avgPrice": [
+    388083,
+    408222,
+    406562,
+    478500
+  ],
+  "lowPrice": [
+    357500,
+    335000,
+    350000,
+    400000
+  ],
+  "highPrice": [
+    435000,
+    492500,
+    515000,
+    729000
+  ],
+  "medianPrice": [
+    387500,
+    400000,
+    396250,
+    418500
+  ]
+}

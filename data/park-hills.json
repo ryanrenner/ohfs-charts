@@ -1,0 +1,42 @@
+{
+  "slug": "park-hills",
+  "name": "Park Hills",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    22,
+    12,
+    8,
+    11
+  ],
+  "avgPrice": [
+    288178,
+    296208,
+    329875,
+    309909
+  ],
+  "lowPrice": [
+    170000,
+    265000,
+    275000,
+    248000
+  ],
+  "highPrice": [
+    345000,
+    340000,
+    400000,
+    350000
+  ],
+  "medianPrice": [
+    293000,
+    291000,
+    330000,
+    315500
+  ]
+}

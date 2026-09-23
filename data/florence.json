@@ -1,0 +1,42 @@
+{
+  "slug": "florence",
+  "name": "Florence",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    22,
+    30,
+    16,
+    13
+  ],
+  "avgPrice": [
+    194486,
+    224385,
+    206200,
+    300000
+  ],
+  "lowPrice": [
+    91200,
+    105000,
+    131200,
+    120000
+  ],
+  "highPrice": [
+    325000,
+    595000,
+    300000,
+    1550000
+  ],
+  "medianPrice": [
+    182250,
+    202000,
+    210000,
+    200000
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "ponca-hills",
+  "name": "Ponca Hills",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    5,
+    9,
+    4,
+    3
+  ],
+  "avgPrice": [
+    513000,
+    900556,
+    554250,
+    480000
+  ],
+  "lowPrice": [
+    375000,
+    400000,
+    465000,
+    340000
+  ],
+  "highPrice": [
+    610000,
+    2300000,
+    718000,
+    575000
+  ],
+  "medianPrice": [
+    515000,
+    800000,
+    517000,
+    525000
+  ]
+}

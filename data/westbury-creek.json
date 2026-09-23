@@ -1,0 +1,42 @@
+{
+  "slug": "westbury-creek",
+  "name": "Westbury Creek",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    51,
+    29,
+    32,
+    39
+  ],
+  "avgPrice": [
+    373373,
+    434084,
+    427356,
+    453711
+  ],
+  "lowPrice": [
+    283180,
+    334290,
+    375000,
+    361769
+  ],
+  "highPrice": [
+    456750,
+    481363,
+    480000,
+    542110
+  ],
+  "medianPrice": [
+    371000,
+    438502,
+    424456,
+    454500
+  ]
+}

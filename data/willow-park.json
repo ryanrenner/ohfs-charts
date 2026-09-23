@@ -1,0 +1,42 @@
+{
+  "slug": "willow-park",
+  "name": "Willow Park",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    13,
+    11,
+    7,
+    10
+  ],
+  "avgPrice": [
+    298154,
+    303682,
+    307414,
+    323200
+  ],
+  "lowPrice": [
+    248003,
+    276000,
+    295000,
+    275000
+  ],
+  "highPrice": [
+    350000,
+    346000,
+    330000,
+    365000
+  ],
+  "medianPrice": [
+    295000,
+    300000,
+    300000,
+    314500
+  ]
+}

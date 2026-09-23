@@ -1,0 +1,42 @@
+{
+  "slug": "merrifield-village",
+  "name": "Merrifield Village",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    6,
+    5,
+    13,
+    6
+  ],
+  "avgPrice": [
+    333333,
+    333100,
+    339531,
+    329917
+  ],
+  "lowPrice": [
+    295000,
+    290000,
+    314900,
+    304000
+  ],
+  "highPrice": [
+    375000,
+    368000,
+    430000,
+    379000
+  ],
+  "medianPrice": [
+    330000,
+    342500,
+    335000,
+    317500
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "granite-lake",
+  "name": "Granite Lake",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    60,
+    27,
+    20,
+    22
+  ],
+  "avgPrice": [
+    497338,
+    534779,
+    573930,
+    586882
+  ],
+  "lowPrice": [
+    341005,
+    413705,
+    425366,
+    452545
+  ],
+  "highPrice": [
+    675000,
+    699900,
+    757820,
+    725000
+  ],
+  "medianPrice": [
+    497615,
+    525000,
+    588276,
+    584374
+  ]
+}

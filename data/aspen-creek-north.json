@@ -1,0 +1,42 @@
+{
+  "slug": "aspen-creek-north",
+  "name": "Aspen Creek North",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    9,
+    34,
+    30,
+    33
+  ],
+  "avgPrice": [
+    537628,
+    600467,
+    619504,
+    642532
+  ],
+  "lowPrice": [
+    447406,
+    455000,
+    447107,
+    485000
+  ],
+  "highPrice": [
+    747000,
+    783313,
+    870446,
+    924000
+  ],
+  "medianPrice": [
+    523036,
+    599412,
+    614950,
+    605000
+  ]
+}

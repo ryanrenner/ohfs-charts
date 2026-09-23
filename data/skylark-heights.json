@@ -1,0 +1,42 @@
+{
+  "slug": "skylark-heights",
+  "name": "Skylark Heights",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    7,
+    4,
+    6,
+    5
+  ],
+  "avgPrice": [
+    397857,
+    376500,
+    423333,
+    489600
+  ],
+  "lowPrice": [
+    190000,
+    255000,
+    332500,
+    448000
+  ],
+  "highPrice": [
+    476000,
+    476000,
+    485000,
+    538000
+  ],
+  "medianPrice": [
+    441500,
+    387500,
+    418750,
+    472000
+  ]
+}

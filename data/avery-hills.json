@@ -1,0 +1,42 @@
+{
+  "slug": "avery-hills",
+  "name": "Avery Hills",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    4,
+    4,
+    5,
+    11
+  ],
+  "avgPrice": [
+    270562,
+    276750,
+    302600,
+    300136
+  ],
+  "lowPrice": [
+    250000,
+    255000,
+    260000,
+    246500
+  ],
+  "highPrice": [
+    284500,
+    299000,
+    323000,
+    335000
+  ],
+  "medianPrice": [
+    273875,
+    276500,
+    315000,
+    305000
+  ]
+}

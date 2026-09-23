@@ -1,0 +1,42 @@
+{
+  "slug": "winterburn",
+  "name": "Winterburn",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    4,
+    4,
+    6,
+    7
+  ],
+  "avgPrice": [
+    286525,
+    286000,
+    291250,
+    315143
+  ],
+  "lowPrice": [
+    255100,
+    260000,
+    265000,
+    295000
+  ],
+  "highPrice": [
+    321000,
+    300000,
+    312500,
+    335000
+  ],
+  "medianPrice": [
+    285000,
+    292000,
+    292500,
+    320000
+  ]
+}

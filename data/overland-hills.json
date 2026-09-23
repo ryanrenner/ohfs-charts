@@ -1,0 +1,42 @@
+{
+  "slug": "overland-hills",
+  "name": "Overland Hills",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    44,
+    23,
+    32,
+    31
+  ],
+  "avgPrice": [
+    272922,
+    264659,
+    298125,
+    301584
+  ],
+  "lowPrice": [
+    220000,
+    50000,
+    200000,
+    245000
+  ],
+  "highPrice": [
+    340000,
+    301000,
+    370000,
+    375000
+  ],
+  "medianPrice": [
+    270000,
+    278000,
+    298500,
+    295000
+  ]
+}

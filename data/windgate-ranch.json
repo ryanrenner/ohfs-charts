@@ -1,0 +1,42 @@
+{
+  "slug": "windgate-ranch",
+  "name": "Windgate Ranch",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    13,
+    7,
+    13,
+    13
+  ],
+  "avgPrice": [
+    694370,
+    724694,
+    858915,
+    703231
+  ],
+  "lowPrice": [
+    460000,
+    635000,
+    515000,
+    569000
+  ],
+  "highPrice": [
+    1025000,
+    849000,
+    1599000,
+    910000
+  ],
+  "medianPrice": [
+    670000,
+    695000,
+    805000,
+    660000
+  ]
+}

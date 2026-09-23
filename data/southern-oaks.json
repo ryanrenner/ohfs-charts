@@ -1,0 +1,42 @@
+{
+  "slug": "southern-oaks",
+  "name": "Southern Oaks",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    5,
+    7,
+    6,
+    4
+  ],
+  "avgPrice": [
+    311700,
+    310571,
+    304333,
+    349750
+  ],
+  "lowPrice": [
+    291000,
+    260000,
+    225000,
+    320000
+  ],
+  "highPrice": [
+    329000,
+    363000,
+    347000,
+    364000
+  ],
+  "medianPrice": [
+    315000,
+    320000,
+    312000,
+    357500
+  ]
+}

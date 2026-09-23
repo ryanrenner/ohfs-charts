@@ -1,0 +1,42 @@
+{
+  "slug": "mapleview",
+  "name": "MapleView",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    13,
+    17,
+    6,
+    9
+  ],
+  "avgPrice": [
+    239692,
+    248118,
+    244667,
+    262278
+  ],
+  "lowPrice": [
+    180000,
+    175000,
+    185000,
+    225000
+  ],
+  "highPrice": [
+    280000,
+    308000,
+    277000,
+    320500
+  ],
+  "medianPrice": [
+    235000,
+    245000,
+    249000,
+    256000
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "coventry-ridge",
+  "name": "Coventry Ridge",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    11,
+    14,
+    14,
+    15
+  ],
+  "avgPrice": [
+    545407,
+    578039,
+    602478,
+    551011
+  ],
+  "lowPrice": [
+    389163,
+    375000,
+    440000,
+    415000
+  ],
+  "highPrice": [
+    658900,
+    953251,
+    801200,
+    675000
+  ],
+  "medianPrice": [
+    551000,
+    562250,
+    597828,
+    550000
+  ]
+}

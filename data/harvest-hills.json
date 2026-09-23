@@ -1,0 +1,42 @@
+{
+  "slug": "harvest-hills",
+  "name": "Harvest HIlls",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    30,
+    48,
+    43,
+    27
+  ],
+  "avgPrice": [
+    487891,
+    399472,
+    437320,
+    474685
+  ],
+  "lowPrice": [
+    358990,
+    245000,
+    350000,
+    325000
+  ],
+  "highPrice": [
+    689900,
+    763635,
+    818895,
+    925000
+  ],
+  "medianPrice": [
+    479455,
+    385495,
+    411420,
+    420000
+  ]
+}

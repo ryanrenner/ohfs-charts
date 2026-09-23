@@ -1,0 +1,42 @@
+{
+  "slug": "arbor-gate",
+  "name": "Arbor Gate",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    46,
+    43,
+    26,
+    44
+  ],
+  "avgPrice": [
+    263212,
+    274916,
+    287673,
+    295526
+  ],
+  "lowPrice": [
+    225000,
+    215000,
+    240000,
+    235000
+  ],
+  "highPrice": [
+    299000,
+    305000,
+    320500,
+    350000
+  ],
+  "medianPrice": [
+    265000,
+    275000,
+    288500,
+    299450
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "andresen-meadows",
+  "name": "Andresen Meadows",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    7,
+    7,
+    6,
+    7
+  ],
+  "avgPrice": [
+    560243,
+    621143,
+    583167,
+    659071
+  ],
+  "lowPrice": [
+    510000,
+    475000,
+    545000,
+    550000
+  ],
+  "highPrice": [
+    635000,
+    985000,
+    660000,
+    975000
+  ],
+  "medianPrice": [
+    540000,
+    580000,
+    567000,
+    615000
+  ]
+}

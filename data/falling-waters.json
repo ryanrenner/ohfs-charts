@@ -1,0 +1,42 @@
+{
+  "slug": "falling-waters",
+  "name": "Falling Waters",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    26,
+    25,
+    15,
+    32
+  ],
+  "avgPrice": [
+    446168,
+    475635,
+    493532,
+    478922
+  ],
+  "lowPrice": [
+    340000,
+    410000,
+    400000,
+    353000
+  ],
+  "highPrice": [
+    555285,
+    555130,
+    596117,
+    633444
+  ],
+  "medianPrice": [
+    449344,
+    477000,
+    506335,
+    486925
+  ]
+}

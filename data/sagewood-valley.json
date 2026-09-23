@@ -1,0 +1,42 @@
+{
+  "slug": "sagewood-valley",
+  "name": "Sagewood Valley",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    16,
+    27,
+    4,
+    9
+  ],
+  "avgPrice": [
+    356212,
+    370565,
+    415000,
+    397500
+  ],
+  "lowPrice": [
+    308947,
+    299900,
+    355000,
+    310000
+  ],
+  "highPrice": [
+    470000,
+    510000,
+    485000,
+    472000
+  ],
+  "medianPrice": [
+    342968,
+    362857,
+    410000,
+    383500
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "creighton-park",
+  "name": "Creighton Park",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    10,
+    9,
+    8,
+    7
+  ],
+  "avgPrice": [
+    327510,
+    336167,
+    354275,
+    396429
+  ],
+  "lowPrice": [
+    251101,
+    240000,
+    234950,
+    310000
+  ],
+  "highPrice": [
+    440000,
+    575000,
+    485000,
+    490000
+  ],
+  "medianPrice": [
+    317000,
+    310500,
+    350500,
+    410000
+  ]
+}

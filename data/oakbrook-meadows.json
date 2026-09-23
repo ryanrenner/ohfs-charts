@@ -1,0 +1,42 @@
+{
+  "slug": "oakbrook-meadows",
+  "name": "Oakbrook Meadows",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    20,
+    17,
+    8,
+    14
+  ],
+  "avgPrice": [
+    270725,
+    293506,
+    320312,
+    302393
+  ],
+  "lowPrice": [
+    245000,
+    265000,
+    270000,
+    255000
+  ],
+  "highPrice": [
+    315400,
+    350000,
+    399500,
+    387000
+  ],
+  "medianPrice": [
+    271500,
+    285000,
+    315000,
+    288000
+  ]
+}

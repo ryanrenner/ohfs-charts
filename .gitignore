@@ -1,0 +1,8 @@
+# Raw MLS exports stay local. They contain addresses and parcel numbers.
+*.csv
+!pipeline/neighborhoods.csv
+!pipeline/pages-to-review.csv
+!pipeline/subdivision-inventory.csv
+
+__pycache__/
+.DS_Store

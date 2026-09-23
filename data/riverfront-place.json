@@ -1,0 +1,42 @@
+{
+  "slug": "riverfront-place",
+  "name": "Riverfront Place",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    4,
+    6,
+    6,
+    6
+  ],
+  "avgPrice": [
+    871645,
+    615383,
+    861836,
+    539833
+  ],
+  "lowPrice": [
+    340000,
+    300000,
+    448013,
+    395000
+  ],
+  "highPrice": [
+    2300000,
+    1060000,
+    1340000,
+    679000
+  ],
+  "medianPrice": [
+    423290,
+    486250,
+    874000,
+    527500
+  ]
+}

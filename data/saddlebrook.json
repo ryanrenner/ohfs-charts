@@ -1,0 +1,42 @@
+{
+  "slug": "saddlebrook",
+  "name": "Saddlebrook",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    13,
+    11,
+    21,
+    17
+  ],
+  "avgPrice": [
+    369923,
+    377636,
+    386310,
+    399176
+  ],
+  "lowPrice": [
+    330000,
+    325000,
+    311000,
+    310000
+  ],
+  "highPrice": [
+    410000,
+    436000,
+    445000,
+    485000
+  ],
+  "medianPrice": [
+    375000,
+    385000,
+    385000,
+    390000
+  ]
+}

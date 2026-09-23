@@ -1,0 +1,42 @@
+{
+  "slug": "turtle-creek",
+  "name": "Turtle Creek",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    11,
+    7,
+    14,
+    18
+  ],
+  "avgPrice": [
+    327955,
+    325000,
+    335286,
+    371828
+  ],
+  "lowPrice": [
+    265000,
+    265000,
+    255000,
+    285000
+  ],
+  "highPrice": [
+    382500,
+    390000,
+    390000,
+    495000
+  ],
+  "medianPrice": [
+    315000,
+    330000,
+    334500,
+    360000
+  ]
+}

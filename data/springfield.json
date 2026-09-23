@@ -1,0 +1,42 @@
+{
+  "slug": "springfield",
+  "name": "Springfield",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    6,
+    7,
+    2,
+    7
+  ],
+  "avgPrice": [
+    500833,
+    273786,
+    426000,
+    292157
+  ],
+  "lowPrice": [
+    75000,
+    160000,
+    152000,
+    150000
+  ],
+  "highPrice": [
+    1555000,
+    385000,
+    700000,
+    550000
+  ],
+  "medianPrice": [
+    362500,
+    274000,
+    426000,
+    250000
+  ]
+}

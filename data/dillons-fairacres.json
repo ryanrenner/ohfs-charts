@@ -1,0 +1,42 @@
+{
+  "slug": "dillons-fairacres",
+  "name": "Dillons Fairacres",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    11,
+    5,
+    10,
+    9
+  ],
+  "avgPrice": [
+    477727,
+    514700,
+    515650,
+    548500
+  ],
+  "lowPrice": [
+    290000,
+    360000,
+    315000,
+    410000
+  ],
+  "highPrice": [
+    720000,
+    808500,
+    632500,
+    855000
+  ],
+  "medianPrice": [
+    415000,
+    455000,
+    527500,
+    530000
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "shadow-lake",
+  "name": "Shadow Lake",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    32,
+    23,
+    31,
+    30
+  ],
+  "avgPrice": [
+    514275,
+    538549,
+    543933,
+    556784
+  ],
+  "lowPrice": [
+    400000,
+    432500,
+    468015,
+    430000
+  ],
+  "highPrice": [
+    625000,
+    695000,
+    625000,
+    667592
+  ],
+  "medianPrice": [
+    515000,
+    532500,
+    540000,
+    550000
+  ]
+}

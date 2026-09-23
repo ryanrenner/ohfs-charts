@@ -1,0 +1,42 @@
+{
+  "slug": "eagle-crest",
+  "name": "Eagle Crest",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    9,
+    6,
+    2,
+    3
+  ],
+  "avgPrice": [
+    413944,
+    395000,
+    445509,
+    521667
+  ],
+  "lowPrice": [
+    350000,
+    295000,
+    419018,
+    470000
+  ],
+  "highPrice": [
+    450000,
+    480000,
+    472000,
+    550000
+  ],
+  "medianPrice": [
+    420000,
+    407500,
+    445509,
+    545000
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "tregaron",
+  "name": "Tregaron",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    9,
+    17,
+    7,
+    4
+  ],
+  "avgPrice": [
+    373944,
+    436282,
+    465771,
+    453350
+  ],
+  "lowPrice": [
+    285000,
+    365000,
+    359500,
+    419900
+  ],
+  "highPrice": [
+    434500,
+    525000,
+    555000,
+    515000
+  ],
+  "medianPrice": [
+    376000,
+    430000,
+    475000,
+    439250
+  ]
+}

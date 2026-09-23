@@ -1,0 +1,42 @@
+{
+  "slug": "springhill",
+  "name": "SpringHill",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    29,
+    32,
+    21,
+    37
+  ],
+  "avgPrice": [
+    259610,
+    271623,
+    282762,
+    288173
+  ],
+  "lowPrice": [
+    235000,
+    235000,
+    255000,
+    245000
+  ],
+  "highPrice": [
+    305000,
+    301000,
+    315000,
+    341000
+  ],
+  "medianPrice": [
+    258000,
+    275000,
+    280000,
+    285000
+  ]
+}

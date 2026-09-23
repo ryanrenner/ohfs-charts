@@ -1,0 +1,42 @@
+{
+  "slug": "westchester",
+  "name": "Westchester",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    8,
+    6,
+    8,
+    7
+  ],
+  "avgPrice": [
+    585862,
+    455083,
+    520625,
+    559929
+  ],
+  "lowPrice": [
+    218000,
+    218500,
+    220000,
+    235000
+  ],
+  "highPrice": [
+    1425000,
+    790000,
+    1175000,
+    972500
+  ],
+  "medianPrice": [
+    372000,
+    426000,
+    495000,
+    460000
+  ]
+}

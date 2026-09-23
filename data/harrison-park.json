@@ -1,0 +1,42 @@
+{
+  "slug": "harrison-park",
+  "name": "Harrison Park",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    38,
+    25,
+    28,
+    31
+  ],
+  "avgPrice": [
+    300513,
+    315120,
+    321100,
+    311126
+  ],
+  "lowPrice": [
+    225000,
+    280000,
+    268000,
+    250000
+  ],
+  "highPrice": [
+    392000,
+    360000,
+    390000,
+    450000
+  ],
+  "medianPrice": [
+    295000,
+    310000,
+    319000,
+    300000
+  ]
+}

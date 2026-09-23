@@ -1,0 +1,42 @@
+{
+  "slug": "evanston",
+  "name": "Evanston",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    6,
+    6,
+    7,
+    8
+  ],
+  "avgPrice": [
+    600833,
+    592000,
+    530714,
+    640500
+  ],
+  "lowPrice": [
+    395000,
+    415000,
+    410000,
+    399000
+  ],
+  "highPrice": [
+    990000,
+    975000,
+    745000,
+    1100000
+  ],
+  "medianPrice": [
+    572500,
+    565000,
+    530000,
+    510000
+  ]
+}

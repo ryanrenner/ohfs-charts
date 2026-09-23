@@ -1,0 +1,42 @@
+{
+  "slug": "wood-valley",
+  "name": "Wood Valley",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    40,
+    25,
+    21,
+    42
+  ],
+  "avgPrice": [
+    297093,
+    306227,
+    304638,
+    313493
+  ],
+  "lowPrice": [
+    237500,
+    268500,
+    270000,
+    270000
+  ],
+  "highPrice": [
+    410000,
+    357000,
+    352500,
+    377000
+  ],
+  "medianPrice": [
+    292500,
+    300000,
+    300000,
+    311000
+  ]
+}

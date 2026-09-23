@@ -1,0 +1,42 @@
+{
+  "slug": "maple-village",
+  "name": "Maple Village",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    41,
+    47,
+    36,
+    48
+  ],
+  "avgPrice": [
+    244122,
+    249319,
+    255126,
+    256407
+  ],
+  "lowPrice": [
+    190000,
+    192000,
+    210000,
+    130000
+  ],
+  "highPrice": [
+    330000,
+    330000,
+    319000,
+    358000
+  ],
+  "medianPrice": [
+    250000,
+    252100,
+    256850,
+    260000
+  ]
+}

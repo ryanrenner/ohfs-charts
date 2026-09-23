@@ -1,0 +1,42 @@
+{
+  "slug": "brook-park",
+  "name": "Brook Park",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    13,
+    9,
+    10,
+    6
+  ],
+  "avgPrice": [
+    281231,
+    304167,
+    326550,
+    316917
+  ],
+  "lowPrice": [
+    265000,
+    265000,
+    290000,
+    292000
+  ],
+  "highPrice": [
+    325000,
+    335000,
+    360000,
+    360000
+  ],
+  "medianPrice": [
+    275000,
+    310000,
+    325000,
+    313750
+  ]
+}

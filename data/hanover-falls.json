@@ -1,0 +1,42 @@
+{
+  "slug": "hanover-falls",
+  "name": "Hanover Falls",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    6,
+    8,
+    7,
+    9
+  ],
+  "avgPrice": [
+    371833,
+    359750,
+    373929,
+    394444
+  ],
+  "lowPrice": [
+    270000,
+    285000,
+    310000,
+    275000
+  ],
+  "highPrice": [
+    475000,
+    475000,
+    475000,
+    545000
+  ],
+  "medianPrice": [
+    368000,
+    352250,
+    330000,
+    395000
+  ]
+}

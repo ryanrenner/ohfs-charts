@@ -1,0 +1,42 @@
+{
+  "slug": "arbor-view",
+  "name": "Arbor View",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    22,
+    16,
+    20,
+    26
+  ],
+  "avgPrice": [
+    418230,
+    442963,
+    441973,
+    471316
+  ],
+  "lowPrice": [
+    348252,
+    381100,
+    353350,
+    346500
+  ],
+  "highPrice": [
+    500000,
+    520000,
+    550000,
+    546000
+  ],
+  "medianPrice": [
+    407500,
+    446000,
+    441200,
+    480250
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "pheasant-run",
+  "name": "Pheasant Run",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    18,
+    16,
+    13,
+    12
+  ],
+  "avgPrice": [
+    263528,
+    280000,
+    284154,
+    298512
+  ],
+  "lowPrice": [
+    215000,
+    206000,
+    215000,
+    235000
+  ],
+  "highPrice": [
+    320000,
+    350000,
+    341000,
+    327250
+  ],
+  "medianPrice": [
+    265000,
+    278000,
+    286500,
+    307500
+  ]
+}

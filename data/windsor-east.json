@@ -1,0 +1,42 @@
+{
+  "slug": "windsor-east",
+  "name": "Windsor East",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    2,
+    14,
+    22,
+    16
+  ],
+  "avgPrice": [
+    330000,
+    378202,
+    388123,
+    367551
+  ],
+  "lowPrice": [
+    330000,
+    335000,
+    335000,
+    315000
+  ],
+  "highPrice": [
+    330000,
+    415425,
+    467975,
+    441780
+  ],
+  "medianPrice": [
+    330000,
+    389550,
+    385198,
+    362542
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "castle-creek",
+  "name": "Castle Creek",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    18,
+    13,
+    14,
+    9
+  ],
+  "avgPrice": [
+    412936,
+    460195,
+    453084,
+    518722
+  ],
+  "lowPrice": [
+    342693,
+    407500,
+    405000,
+    445000
+  ],
+  "highPrice": [
+    495000,
+    565000,
+    550000,
+    610000
+  ],
+  "medianPrice": [
+    421000,
+    457865,
+    442756,
+    515000
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "hyda-hills",
+  "name": "Hyda Hills",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    22,
+    20,
+    32,
+    28
+  ],
+  "avgPrice": [
+    400031,
+    413553,
+    377474,
+    396258
+  ],
+  "lowPrice": [
+    315000,
+    320000,
+    326907,
+    335100
+  ],
+  "highPrice": [
+    500000,
+    580000,
+    505000,
+    470000
+  ],
+  "medianPrice": [
+    396342,
+    397670,
+    368916,
+    390872
+  ]
+}

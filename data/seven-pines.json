@@ -1,0 +1,42 @@
+{
+  "slug": "seven-pines",
+  "name": "Seven Pines",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    16,
+    11,
+    14,
+    17
+  ],
+  "avgPrice": [
+    279625,
+    291773,
+    307393,
+    301082
+  ],
+  "lowPrice": [
+    230000,
+    263500,
+    280000,
+    255000
+  ],
+  "highPrice": [
+    330000,
+    318000,
+    350000,
+    340000
+  ],
+  "medianPrice": [
+    278500,
+    285000,
+    304750,
+    300000
+  ]
+}

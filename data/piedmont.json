@@ -1,0 +1,42 @@
+{
+  "slug": "piedmont",
+  "name": "Piedmont",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    18,
+    15,
+    17,
+    19
+  ],
+  "avgPrice": [
+    313974,
+    310870,
+    322075,
+    327095
+  ],
+  "lowPrice": [
+    255000,
+    225000,
+    268000,
+    285000
+  ],
+  "highPrice": [
+    445000,
+    405000,
+    380000,
+    370000
+  ],
+  "medianPrice": [
+    300000,
+    301000,
+    315000,
+    327500
+  ]
+}

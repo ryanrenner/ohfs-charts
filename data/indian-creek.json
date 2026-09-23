@@ -1,0 +1,42 @@
+{
+  "slug": "indian-creek",
+  "name": "Indian Creek",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    8,
+    7,
+    16,
+    7
+  ],
+  "avgPrice": [
+    595924,
+    678357,
+    683750,
+    752286
+  ],
+  "lowPrice": [
+    450000,
+    520000,
+    485000,
+    495000
+  ],
+  "highPrice": [
+    715000,
+    1100000,
+    1495000,
+    1581000
+  ],
+  "medianPrice": [
+    597000,
+    535000,
+    577500,
+    615000
+  ]
+}

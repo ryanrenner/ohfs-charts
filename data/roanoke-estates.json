@@ -1,0 +1,42 @@
+{
+  "slug": "roanoke-estates",
+  "name": "Roanoke Estates",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    11,
+    10,
+    4,
+    5
+  ],
+  "avgPrice": [
+    266545,
+    276300,
+    295250,
+    261780
+  ],
+  "lowPrice": [
+    237000,
+    260000,
+    271000,
+    215000
+  ],
+  "highPrice": [
+    325000,
+    315000,
+    335000,
+    289000
+  ],
+  "medianPrice": [
+    265000,
+    275000,
+    287500,
+    275000
+  ]
+}

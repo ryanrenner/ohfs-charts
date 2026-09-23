@@ -1,0 +1,42 @@
+{
+  "slug": "two-springs",
+  "name": "Two Springs",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    23,
+    21,
+    22,
+    25
+  ],
+  "avgPrice": [
+    283783,
+    316664,
+    298591,
+    323744
+  ],
+  "lowPrice": [
+    240000,
+    215000,
+    220000,
+    285000
+  ],
+  "highPrice": [
+    326000,
+    445000,
+    370000,
+    405000
+  ],
+  "medianPrice": [
+    286500,
+    310000,
+    294000,
+    316200
+  ]
+}

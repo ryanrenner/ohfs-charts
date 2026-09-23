@@ -1,0 +1,42 @@
+{
+  "slug": "diamond-head",
+  "name": "Diamond Head",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    15,
+    13,
+    17,
+    27
+  ],
+  "avgPrice": [
+    356560,
+    341923,
+    360176,
+    368093
+  ],
+  "lowPrice": [
+    274900,
+    245000,
+    275000,
+    270000
+  ],
+  "highPrice": [
+    425000,
+    456000,
+    415000,
+    488000
+  ],
+  "medianPrice": [
+    350000,
+    332000,
+    368000,
+    380000
+  ]
+}

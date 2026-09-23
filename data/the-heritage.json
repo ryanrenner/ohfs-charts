@@ -1,0 +1,42 @@
+{
+  "slug": "the-heritage",
+  "name": "The Heritage",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    8,
+    2,
+    6,
+    8
+  ],
+  "avgPrice": [
+    422853,
+    460000,
+    424917,
+    401625
+  ],
+  "lowPrice": [
+    308500,
+    405000,
+    375000,
+    348000
+  ],
+  "highPrice": [
+    514826,
+    515000,
+    487500,
+    450000
+  ],
+  "medianPrice": [
+    452500,
+    460000,
+    426000,
+    400000
+  ]
+}

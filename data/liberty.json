@@ -1,0 +1,42 @@
+{
+  "slug": "liberty",
+  "name": "Liberty",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    13,
+    11,
+    9,
+    18
+  ],
+  "avgPrice": [
+    412336,
+    434986,
+    446211,
+    516499
+  ],
+  "lowPrice": [
+    326848,
+    395000,
+    387900,
+    399900
+  ],
+  "highPrice": [
+    492174,
+    464000,
+    499500,
+    618816
+  ],
+  "medianPrice": [
+    399900,
+    440000,
+    440000,
+    498441
+  ]
+}

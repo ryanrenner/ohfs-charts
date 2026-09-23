@@ -1,0 +1,42 @@
+{
+  "slug": "normandy-hills",
+  "name": "Normandy Hills",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    11,
+    6,
+    8,
+    12
+  ],
+  "avgPrice": [
+    260773,
+    293333,
+    311112,
+    311958
+  ],
+  "lowPrice": [
+    165000,
+    240000,
+    270000,
+    275000
+  ],
+  "highPrice": [
+    332000,
+    350000,
+    399900,
+    375000
+  ],
+  "medianPrice": [
+    265000,
+    290000,
+    287000,
+    302500
+  ]
+}

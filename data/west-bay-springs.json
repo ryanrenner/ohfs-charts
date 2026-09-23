@@ -1,0 +1,42 @@
+{
+  "slug": "west-bay-springs",
+  "name": "West Bay Springs",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    5,
+    4,
+    8,
+    5
+  ],
+  "avgPrice": [
+    521020,
+    520000,
+    565938,
+    559600
+  ],
+  "lowPrice": [
+    435000,
+    485000,
+    455000,
+    510000
+  ],
+  "highPrice": [
+    600000,
+    560000,
+    725000,
+    618000
+  ],
+  "medianPrice": [
+    525100,
+    517500,
+    558750,
+    530000
+  ]
+}

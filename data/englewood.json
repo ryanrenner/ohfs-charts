@@ -1,0 +1,42 @@
+{
+  "slug": "englewood",
+  "name": "Englewood",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    8,
+    9,
+    8,
+    9
+  ],
+  "avgPrice": [
+    241062,
+    244778,
+    261125,
+    273678
+  ],
+  "lowPrice": [
+    220000,
+    215000,
+    191000,
+    232500
+  ],
+  "highPrice": [
+    250500,
+    265000,
+    305000,
+    314000
+  ],
+  "medianPrice": [
+    245000,
+    250000,
+    272500,
+    279900
+  ]
+}

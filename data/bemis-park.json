@@ -1,0 +1,42 @@
+{
+  "slug": "bemis-park",
+  "name": "Bemis Park",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    13,
+    8,
+    2,
+    3
+  ],
+  "avgPrice": [
+    244577,
+    248688,
+    347500,
+    289667
+  ],
+  "lowPrice": [
+    92500,
+    60000,
+    250000,
+    210000
+  ],
+  "highPrice": [
+    575000,
+    550000,
+    445000,
+    399000
+  ],
+  "medianPrice": [
+    186000,
+    207750,
+    347500,
+    260000
+  ]
+}

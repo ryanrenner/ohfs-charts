@@ -1,0 +1,42 @@
+{
+  "slug": "fountain-hills",
+  "name": "Fountain Hills",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    15,
+    7,
+    8,
+    12
+  ],
+  "avgPrice": [
+    379060,
+    393501,
+    392200,
+    388667
+  ],
+  "lowPrice": [
+    319000,
+    359000,
+    305100,
+    333000
+  ],
+  "highPrice": [
+    472000,
+    469000,
+    536500,
+    450000
+  ],
+  "medianPrice": [
+    370000,
+    386000,
+    401500,
+    385000
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "the-prairies",
+  "name": "The Prairies",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    13,
+    16,
+    14,
+    14
+  ],
+  "avgPrice": [
+    941273,
+    1048004,
+    1071429,
+    1358363
+  ],
+  "lowPrice": [
+    665000,
+    620000,
+    700000,
+    662500
+  ],
+  "highPrice": [
+    1470000,
+    2425000,
+    2600000,
+    2600000
+  ],
+  "medianPrice": [
+    750000,
+    737158,
+    849802,
+    1140000
+  ]
+}

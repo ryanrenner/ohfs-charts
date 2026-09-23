@@ -1,0 +1,42 @@
+{
+  "slug": "stone-ridge",
+  "name": "Stone Ridge",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    44,
+    28,
+    38,
+    31
+  ],
+  "avgPrice": [
+    317225,
+    313161,
+    326013,
+    329286
+  ],
+  "lowPrice": [
+    235000,
+    235000,
+    263000,
+    260000
+  ],
+  "highPrice": [
+    410000,
+    370000,
+    425000,
+    440000
+  ],
+  "medianPrice": [
+    318749,
+    313000,
+    329500,
+    326616
+  ]
+}

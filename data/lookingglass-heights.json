@@ -1,0 +1,42 @@
+{
+  "slug": "lookingglass-heights",
+  "name": "Lookingglass Heights",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    14,
+    7,
+    9,
+    11
+  ],
+  "avgPrice": [
+    251464,
+    285857,
+    277333,
+    291909
+  ],
+  "lowPrice": [
+    215000,
+    260000,
+    243000,
+    240000
+  ],
+  "highPrice": [
+    285000,
+    317500,
+    315000,
+    335000
+  ],
+  "medianPrice": [
+    250250,
+    285000,
+    275000,
+    295000
+  ]
+}

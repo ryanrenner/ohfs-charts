@@ -1,0 +1,42 @@
+{
+  "slug": "prairie-hills",
+  "name": "Prairie Hills",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    11,
+    10,
+    6,
+    6
+  ],
+  "avgPrice": [
+    386900,
+    394490,
+    423650,
+    373417
+  ],
+  "lowPrice": [
+    285000,
+    260000,
+    340000,
+    285000
+  ],
+  "highPrice": [
+    521500,
+    515000,
+    488000,
+    449000
+  ],
+  "medianPrice": [
+    375000,
+    395000,
+    445950,
+    380750
+  ]
+}

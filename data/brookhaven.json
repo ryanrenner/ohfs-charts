@@ -1,0 +1,42 @@
+{
+  "slug": "brookhaven",
+  "name": "Brookhaven",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    21,
+    22,
+    25,
+    22
+  ],
+  "avgPrice": [
+    269760,
+    278545,
+    287167,
+    295068
+  ],
+  "lowPrice": [
+    200000,
+    236000,
+    210000,
+    250000
+  ],
+  "highPrice": [
+    322000,
+    330000,
+    332000,
+    320000
+  ],
+  "medianPrice": [
+    265000,
+    280000,
+    293700,
+    297500
+  ]
+}

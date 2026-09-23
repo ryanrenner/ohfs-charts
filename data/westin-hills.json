@@ -1,0 +1,42 @@
+{
+  "slug": "westin-hills",
+  "name": "Westin Hills",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    33,
+    25,
+    29,
+    25
+  ],
+  "avgPrice": [
+    282621,
+    294726,
+    304869,
+    306624
+  ],
+  "lowPrice": [
+    220000,
+    210000,
+    237500,
+    236000
+  ],
+  "highPrice": [
+    336500,
+    355000,
+    360000,
+    370000
+  ],
+  "medianPrice": [
+    290000,
+    300000,
+    309000,
+    312500
+  ]
+}

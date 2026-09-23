@@ -1,0 +1,42 @@
+{
+  "slug": "standing-stone",
+  "name": "Standing Stone",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    7,
+    5,
+    6,
+    9
+  ],
+  "avgPrice": [
+    361071,
+    381500,
+    422500,
+    406778
+  ],
+  "lowPrice": [
+    250000,
+    300000,
+    332000,
+    300000
+  ],
+  "highPrice": [
+    442000,
+    470000,
+    519000,
+    525000
+  ],
+  "medianPrice": [
+    360000,
+    380500,
+    430000,
+    395000
+  ]
+}

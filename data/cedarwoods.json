@@ -1,0 +1,42 @@
+{
+  "slug": "cedarwoods",
+  "name": "Cedarwoods",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    7,
+    5,
+    6,
+    8
+  ],
+  "avgPrice": [
+    303357,
+    302800,
+    309000,
+    312794
+  ],
+  "lowPrice": [
+    275000,
+    294000,
+    290000,
+    216500
+  ],
+  "highPrice": [
+    338500,
+    315000,
+    324000,
+    380000
+  ],
+  "medianPrice": [
+    300000,
+    295000,
+    312500,
+    322925
+  ]
+}

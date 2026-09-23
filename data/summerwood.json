@@ -1,0 +1,42 @@
+{
+  "slug": "summerwood",
+  "name": "Summerwood",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    17,
+    14,
+    13,
+    12
+  ],
+  "avgPrice": [
+    324524,
+    353750,
+    344192,
+    342515
+  ],
+  "lowPrice": [
+    262000,
+    285000,
+    300000,
+    297680
+  ],
+  "highPrice": [
+    375000,
+    415000,
+    415000,
+    428000
+  ],
+  "medianPrice": [
+    330000,
+    355000,
+    340000,
+    341250
+  ]
+}

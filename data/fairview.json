@@ -1,0 +1,42 @@
+{
+  "slug": "fairview",
+  "name": "Fairview",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    11,
+    5,
+    4,
+    5
+  ],
+  "avgPrice": [
+    325773,
+    343600,
+    360375,
+    394000
+  ],
+  "lowPrice": [
+    271000,
+    318000,
+    310000,
+    350000
+  ],
+  "highPrice": [
+    378000,
+    370000,
+    399000,
+    440000
+  ],
+  "medianPrice": [
+    322500,
+    350000,
+    366250,
+    410000
+  ]
+}

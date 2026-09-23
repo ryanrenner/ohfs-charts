@@ -1,0 +1,42 @@
+{
+  "slug": "rockbrook",
+  "name": "Rockbrook",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    13,
+    6,
+    7,
+    12
+  ],
+  "avgPrice": [
+    414077,
+    653667,
+    531429,
+    679898
+  ],
+  "lowPrice": [
+    190000,
+    472000,
+    225000,
+    320000
+  ],
+  "highPrice": [
+    576000,
+    1185000,
+    750000,
+    1800000
+  ],
+  "medianPrice": [
+    427500,
+    550000,
+    570000,
+    599250
+  ]
+}

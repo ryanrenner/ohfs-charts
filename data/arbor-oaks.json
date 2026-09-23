@@ -1,0 +1,42 @@
+{
+  "slug": "arbor-oaks",
+  "name": "Arbor Oaks",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    10,
+    12,
+    9,
+    16
+  ],
+  "avgPrice": [
+    313850,
+    316752,
+    328000,
+    345344
+  ],
+  "lowPrice": [
+    280000,
+    280000,
+    280000,
+    317500
+  ],
+  "highPrice": [
+    372000,
+    385000,
+    385000,
+    385000
+  ],
+  "medianPrice": [
+    308000,
+    309510,
+    315000,
+    344500
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "somerset",
+  "name": "Somerset",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    103,
+    58,
+    24,
+    41
+  ],
+  "avgPrice": [
+    290613,
+    296188,
+    290583,
+    295404
+  ],
+  "lowPrice": [
+    230000,
+    250000,
+    241000,
+    250000
+  ],
+  "highPrice": [
+    389789,
+    356529,
+    356000,
+    365000
+  ],
+  "medianPrice": [
+    283945,
+    300000,
+    292500,
+    290000
+  ]
+}

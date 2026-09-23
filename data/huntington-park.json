@@ -1,0 +1,42 @@
+{
+  "slug": "huntington-park",
+  "name": "Huntington Park",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    21,
+    17,
+    12,
+    15
+  ],
+  "avgPrice": [
+    569852,
+    631385,
+    543792,
+    632800
+  ],
+  "lowPrice": [
+    410000,
+    475000,
+    403000,
+    470000
+  ],
+  "highPrice": [
+    750000,
+    1002050,
+    672500,
+    750000
+  ],
+  "medianPrice": [
+    570000,
+    600000,
+    534000,
+    645000
+  ]
+}

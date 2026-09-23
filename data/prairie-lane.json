@@ -1,0 +1,42 @@
+{
+  "slug": "prairie-lane",
+  "name": "Prairie Lane",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    11,
+    8,
+    10,
+    16
+  ],
+  "avgPrice": [
+    316409,
+    329000,
+    333565,
+    362156
+  ],
+  "lowPrice": [
+    212500,
+    305000,
+    267750,
+    275000
+  ],
+  "highPrice": [
+    411001,
+    360000,
+    445000,
+    432500
+  ],
+  "medianPrice": [
+    325000,
+    328750,
+    325000,
+    360000
+  ]
+}

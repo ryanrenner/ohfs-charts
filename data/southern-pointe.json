@@ -1,0 +1,42 @@
+{
+  "slug": "southern-pointe",
+  "name": "Southern Pointe",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    50,
+    49,
+    31,
+    11
+  ],
+  "avgPrice": [
+    396208,
+    391172,
+    401076,
+    402127
+  ],
+  "lowPrice": [
+    317700,
+    315000,
+    330000,
+    315000
+  ],
+  "highPrice": [
+    507916,
+    465000,
+    494000,
+    462500
+  ],
+  "medianPrice": [
+    393970,
+    384619,
+    391040,
+    419000
+  ]
+}

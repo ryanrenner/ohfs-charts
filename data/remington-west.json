@@ -1,0 +1,42 @@
+{
+  "slug": "remington-west",
+  "name": "Remington West",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    26,
+    56,
+    54,
+    37
+  ],
+  "avgPrice": [
+    463736,
+    469332,
+    443785,
+    436692
+  ],
+  "lowPrice": [
+    346385,
+    355572,
+    359665,
+    368961
+  ],
+  "highPrice": [
+    567010,
+    618285,
+    640118,
+    600000
+  ],
+  "medianPrice": [
+    454007,
+    461500,
+    421674,
+    401388
+  ]
+}

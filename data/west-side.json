@@ -1,0 +1,42 @@
+{
+  "slug": "west-side",
+  "name": "West Side",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    12,
+    10,
+    7,
+    16
+  ],
+  "avgPrice": [
+    217325,
+    245415,
+    268000,
+    251578
+  ],
+  "lowPrice": [
+    180000,
+    146000,
+    196000,
+    186250
+  ],
+  "highPrice": [
+    300000,
+    335000,
+    435000,
+    389000
+  ],
+  "medianPrice": [
+    204950,
+    247450,
+    250000,
+    233500
+  ]
+}

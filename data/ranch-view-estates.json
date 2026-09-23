@@ -1,0 +1,42 @@
+{
+  "slug": "ranch-view-estates",
+  "name": "Ranch View Estates",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    4,
+    6,
+    6,
+    6
+  ],
+  "avgPrice": [
+    1029500,
+    867667,
+    911667,
+    1158057
+  ],
+  "lowPrice": [
+    650000,
+    550000,
+    740000,
+    725000
+  ],
+  "highPrice": [
+    1614000,
+    1550000,
+    1050000,
+    1600000
+  ],
+  "medianPrice": [
+    927000,
+    771500,
+    940000,
+    1120000
+  ]
+}

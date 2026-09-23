@@ -1,0 +1,42 @@
+{
+  "slug": "deer-creek-reserve",
+  "name": "Deer Creek Reserve",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    8,
+    11,
+    8,
+    4
+  ],
+  "avgPrice": [
+    659382,
+    582232,
+    636251,
+    639016
+  ],
+  "lowPrice": [
+    460000,
+    448000,
+    482500,
+    520000
+  ],
+  "highPrice": [
+    980621,
+    820000,
+    787000,
+    776063
+  ],
+  "medianPrice": [
+    657338,
+    509089,
+    635500,
+    630000
+  ]
+}

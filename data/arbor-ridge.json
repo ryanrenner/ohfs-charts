@@ -1,0 +1,42 @@
+{
+  "slug": "arbor-ridge",
+  "name": "Arbor Ridge",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    16,
+    14,
+    19,
+    12
+  ],
+  "avgPrice": [
+    414297,
+    412429,
+    464316,
+    446450
+  ],
+  "lowPrice": [
+    200000,
+    305000,
+    320000,
+    374000
+  ],
+  "highPrice": [
+    600000,
+    505000,
+    550000,
+    535000
+  ],
+  "medianPrice": [
+    427500,
+    415000,
+    464000,
+    449200
+  ]
+}

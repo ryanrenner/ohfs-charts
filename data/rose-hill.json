@@ -1,0 +1,42 @@
+{
+  "slug": "rose-hill",
+  "name": "Rose Hill",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    14,
+    13,
+    16,
+    12
+  ],
+  "avgPrice": [
+    222929,
+    229194,
+    270969,
+    235333
+  ],
+  "lowPrice": [
+    135000,
+    160000,
+    165000,
+    185000
+  ],
+  "highPrice": [
+    389000,
+    319500,
+    695000,
+    360000
+  ],
+  "medianPrice": [
+    211500,
+    215000,
+    217500,
+    222500
+  ]
+}

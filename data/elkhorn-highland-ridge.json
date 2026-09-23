@@ -1,0 +1,42 @@
+{
+  "slug": "elkhorn-highland-ridge",
+  "name": "Elkhorn Highland Ridge",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    14,
+    12,
+    11,
+    13
+  ],
+  "avgPrice": [
+    424093,
+    414173,
+    427136,
+    408000
+  ],
+  "lowPrice": [
+    330000,
+    330000,
+    352000,
+    331000
+  ],
+  "highPrice": [
+    545000,
+    538538,
+    539500,
+    540000
+  ],
+  "medianPrice": [
+    423000,
+    420000,
+    429500,
+    425000
+  ]
+}

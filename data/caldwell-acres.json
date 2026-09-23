@@ -1,0 +1,42 @@
+{
+  "slug": "caldwell-acres",
+  "name": "Caldwell Acres",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    11,
+    12,
+    9,
+    10
+  ],
+  "avgPrice": [
+    211909,
+    225900,
+    238261,
+    241710
+  ],
+  "lowPrice": [
+    138000,
+    175000,
+    190000,
+    127500
+  ],
+  "highPrice": [
+    270000,
+    319000,
+    285000,
+    374600
+  ],
+  "medianPrice": [
+    220000,
+    213000,
+    234000,
+    239500
+  ]
+}

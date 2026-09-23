@@ -1,0 +1,42 @@
+{
+  "slug": "fontenelle",
+  "name": "Fontenelle",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    7,
+    11,
+    3,
+    4
+  ],
+  "avgPrice": [
+    350000,
+    371496,
+    428333,
+    317250
+  ],
+  "lowPrice": [
+    290000,
+    248000,
+    365000,
+    95000
+  ],
+  "highPrice": [
+    425000,
+    499900,
+    465000,
+    449000
+  ],
+  "medianPrice": [
+    350000,
+    367000,
+    455000,
+    362500
+  ]
+}

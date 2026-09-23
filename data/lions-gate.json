@@ -1,0 +1,42 @@
+{
+  "slug": "lions-gate",
+  "name": "Lions Gate",
+  "updated": "2026-09-23",
+  "source": "Source: MLS closed sales, compiled by Ryan Renner.",
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "sold": [
+    44,
+    44,
+    46,
+    12
+  ],
+  "avgPrice": [
+    418460,
+    426622,
+    417017,
+    419158
+  ],
+  "lowPrice": [
+    293400,
+    344900,
+    342000,
+    365000
+  ],
+  "highPrice": [
+    593289,
+    589470,
+    530000,
+    485900
+  ],
+  "medianPrice": [
+    418316,
+    425692,
+    401036,
+    425000
+  ]
+}
