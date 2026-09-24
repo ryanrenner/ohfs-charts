@@ -1,0 +1,44 @@
+<!-- START OF SUBDIVISION MARKET DASHBOARD (MANUAL EXAMPLE) -->
+<!-- Prefer snippets/market-dashboard.html. This version hand-codes the intro and data for one page. -->
+<!--
+  Styles, Chart.js, and the KPI row are all handled by ohfs-chart-config.js.
+  Per page, edit only the three UPDATE regions below.
+-->
+<section class="cmpt-market-dash" aria-labelledby="ohfs-dash-sagewood-title">
+
+  <div class="cmpt-market-dash__intro clear">
+    <!-- UPDATE NEIGHBORHOOD NAME IN HEADLINE AND LEDE -->
+    <span class="kicker__headline">Market Trends</span>
+    <h2 id="ohfs-dash-sagewood-title">Sagewood Neighborhood Home Sales</h2>
+    <p>
+      In 2025, Sagewood recorded <strong>18 home sales</strong> with an
+      <strong>average sale price of $390,000</strong>. Since 2022, the average
+      sale price is up about <strong>10%</strong>, and annual sales have grown
+      from 12 to 18 homes.
+    </p>
+    <!-- UPDATE NEIGHBORHOOD NAME IN HEADLINE AND LEDE -->
+  </div>
+
+  <!-- KPI row and charts render here. Keep this div empty. -->
+  <!-- UPDATE ID: match the id in OHFSChart() below and in aria-labelledby above -->
+  <div class="cmpt-market-dash__body" id="ohfs-dash-sagewood"></div>
+
+  <!-- UPDATE SOURCE LINE IF NEEDED -->
+  <p class="cmpt-market-dash__source">Source: MLS closed sales, compiled by Ryan Renner.</p>
+
+</section>
+
+<script src="https://cdn.jsdelivr.net/gh/ryanrenner/ohfs-charts@main/ohfs-chart-config.js"></script>
+<script>
+  /* UPDATE DATA: all five arrays must have the same number of entries */
+  OHFSChart({
+    layout: 'dashboard',
+    id: 'ohfs-dash-sagewood',
+    years:     ['2022', '2023', '2024', '2025'],
+    sold:      [12, 14, 15, 18],
+    avgPrice:  [353000, 361000, 345000, 390000],
+    lowPrice:  [270000, 285000, 280000, 298000],  /* 2022 and 2023 are EXAMPLE VALUES, replace */
+    highPrice: [440000, 455000, 470000, 530000]   /* 2022 and 2023 are EXAMPLE VALUES, replace */
+  });
+</script>
+<!-- END OF SUBDIVISION MARKET DASHBOARD -->

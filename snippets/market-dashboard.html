@@ -1,0 +1,15 @@
+<!-- START OF MARKET DASHBOARD -->
+<!--
+  Shared snippet for every neighborhood page. Create it once in REW:
+  Content -> Snippets -> Add New, name it market-dashboard, paste this in.
+  Then put #market-dashboard# on any neighborhood page.
+
+  The script reads the page URL, finds that page in data/index.json, and
+  builds the section from data/<slug>.json. Pages without data remove the
+  section automatically. Nothing on this page needs editing.
+
+  To force a specific neighborhood, add data-slug="sagewood" to the section.
+-->
+<section class="cmpt-market-dash" data-ohfs-market></section>
+<script src="https://cdn.jsdelivr.net/gh/ryanrenner/ohfs-charts@main/ohfs-chart-config.js"></script>
+<!-- END OF MARKET DASHBOARD -->
