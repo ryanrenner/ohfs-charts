@@ -1,5 +1,10 @@
 # Changelog
 
+## 5.1 (2026-09-24)
+- Dashboard headline is now `<h3>` instead of `<h2>`.
+- Intro block (kicker, headline, lede) no longer caps at 760px; the lede
+  paragraph now spans the full dashboard width like the KPI row and charts.
+
 ## 5.0 (2026-09-23)
 - One shared snippet (`#market-dashboard#`) for every neighborhood page. The
   config reads the page URL, looks it up in `data/index.json`, and loads that

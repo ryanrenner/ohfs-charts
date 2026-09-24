@@ -4,7 +4,7 @@
   File:  ohfs-chart-config.js
   Repo:  github.com/ryanrenner/ohfs-charts
   Theme: REW sagittarius (26.x)
-  Version: 5.0
+  Version: 5.1
 
   WHAT THIS FILE DOES
   -------------------
@@ -126,8 +126,7 @@
 
       /* ---------- Dashboard layout (new in 4.0) ---------- */
       '.cmpt-market-dash { margin: 48px 0; font-family: ' + T.fontFamily + '; color: ' + T.colorText + '; }',
-      '.cmpt-market-dash__intro { max-width: 760px; }',
-      '.cmpt-market-dash__intro h2 { margin-bottom: 16px; }',
+      '.cmpt-market-dash__intro h3 { margin-bottom: 16px; }',
       /* Kicker override: theme default is Playfair italic. Scoped to this component only. */
       '.cmpt-market-dash__intro .kicker__headline { display: block; margin-bottom: 8px; font-family: ' + T.fontFamily + '; font-style: normal; font-weight: 700; font-size: 14px; line-height: 1.4; letter-spacing: 1.5px; text-transform: uppercase; color: ' + T.colorPrimary + '; }',
 
@@ -713,7 +712,7 @@
     el.innerHTML = '' +
       '<div class="cmpt-market-dash__intro clear">' +
         '<span class="kicker__headline">Market Trends</span>' +
-        '<h2 id="' + id + '-title">' + esc(d.name) + ' Neighborhood Home Sales</h2>' +
+        '<h3 id="' + id + '-title">' + esc(d.name) + ' Neighborhood Home Sales</h3>' +
         '<p>' + buildLede(c, d.name) + '</p>' +
       '</div>' +
       '<div class="cmpt-market-dash__body" id="' + id + '"></div>' +
